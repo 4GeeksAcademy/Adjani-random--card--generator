@@ -1,12 +1,16 @@
 body {
   background: green;
 }
+.button {
+  position: absolute;
+  border-radius: 10px;
+}
 .card {
   text-align: center;
   background-color: white;
   margin: auto;
-  height: 225px;
-  width: 250px;
+  /* height: 225px;
+  width: 250px; */
   font-size: 150px;
   border-radius: 10px;
   padding: 20px;
